@@ -1,3 +1,3 @@
 module Release
-  VERSION = "0.0.4.pre1"
+  VERSION = "0.0.4"
 end
